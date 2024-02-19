@@ -1,7 +1,7 @@
 public class Fibonacci {
     public static void main(String[] args) {
         System.out.println("Fibonacci series of n numbers");
-        int n = 10; // Change n to the desired Fibonacci sequence length
+        int n = x; // Change n to the desired Fibonacci sequence length
         for (int i = 0; i < n; i++) {
             System.out.print(fibonacci(i) + " ");
         }
